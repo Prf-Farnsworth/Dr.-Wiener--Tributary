@@ -32,9 +32,6 @@ h4 {
   color: #555;
 }
 
-.thumbnail {
-  margin: 0 0 0 0;
-}
 
 figcaption {
   font-weight: bold;
@@ -42,12 +39,6 @@ figcaption {
 
 figure .pic-title {
   align: left;
-  display: inline;
-}
-
-figure .pic-source {
-  align: right;
-  display: inline;
 }
 
 hr {
